@@ -1,6 +1,6 @@
 # Assembly para Iniciantes
 
-Bem-vindo ao repositório **Assembly para Iniciantes**! Este projeto foi criado para ajudar quem deseja aprender Assembly do zero, fornecendo exemplos simples e bem comentados.
+Bem-vindo ao repositório **Assembly Iniciantes**! Este projeto foi criado para ajudar quem deseja aprender Assembly do zero, fornecendo exemplos simples e bem comentados.
 
 ## Descrição
 
